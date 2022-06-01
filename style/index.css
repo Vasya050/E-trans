@@ -361,6 +361,15 @@ svg {
     gap: 10px;
 }
 
+.footer__link {
+    color: #FFFFFF;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer__link:hover {
+    color: #CDF478;
+}
+
 .footer__title {
     font-weight: 700;
     margin-bottom: 10px;
